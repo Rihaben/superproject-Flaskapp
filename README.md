@@ -1,2 +1,2 @@
 # superproject-Flaskapp
-"this project runs random gifs of cats this the app. !"
+"this project runs random gifs of cats. This is just a testing app!"
