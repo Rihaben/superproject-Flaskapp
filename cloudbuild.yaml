@@ -1,5 +1,4 @@
 steps:
 - name: gcr.io/cloud-builders/docker
-  args: ['pull', 'gcr.io/offshore-project-test/200401073/pythonflaskapp', './flask-app']
-  timeout: 600s
+  args: ['build', '-t', 'gcr.io/offshore-project-test/200401073/pythonflaskapp', '.']
 images: ['gcr.io/offshore-project-test/200401073/pythonflaskapp']
