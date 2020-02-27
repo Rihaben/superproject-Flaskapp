@@ -2,4 +2,4 @@
 # we need to create a file called requirements.txt 
 # and add the following line to that file
 
-Flask==0.10.1
+Flask==1.0
